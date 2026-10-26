@@ -1,0 +1,4 @@
+node_modules/
+images.csv
+__pycache__/
+.venv/
